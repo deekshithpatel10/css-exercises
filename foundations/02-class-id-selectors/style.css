@@ -1,0 +1,22 @@
+.basic {
+   color: black;
+   background-color: rgb(223, 125, 142);
+   font-style: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.basic.three {
+   font-size: 24px;
+}
+
+#second {
+   color: blue;
+   font-size: 36px;
+}
+
+#fourth {
+   background-color: rgb(144, 238, 144);
+   font-weight: bold;
+   font-size: 24px;
+}
+
+
